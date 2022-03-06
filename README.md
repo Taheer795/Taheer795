@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Taheer795
+- 👋 Hi, I’m Tahir Ismail
 - 👀 I’m interested in coding and marketing 
 - 👀 I'm a student of Bayero University Kano, Kano State, Nigeria (Currently studying)
 - 🌱 I’m currently learning ui/ux designs,java script,online marketing strategies and other related computing courses
